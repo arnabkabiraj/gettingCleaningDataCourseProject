@@ -1,5 +1,5 @@
 Simply run the script in R to get two output files in your working directory named "tidy_data.txt" and "rownames.txt".
-the first file have the column names but no row names and the second file has row names but no column names.
+the first file has the column names but no row names and the second file has row names but no column names.
 
 This repo contains only one R script named "run_analysis.R" which acts on the datasets available at the url "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip". The CodeBook.md file contains a comprehensive review of what the script does and why. For the reviews' convenience same review is also given here.
 
